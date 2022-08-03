@@ -18,4 +18,10 @@ console.log(sum(3));
 
 ![3](https://user-images.githubusercontent.com/13010173/182547072-cd61f43b-79f9-44f5-9824-203e5ac52134.jpg)
 
+![4](https://user-images.githubusercontent.com/13010173/182547407-81788a27-c453-4362-936b-58302e3c06f6.jpg)
+
+![5](https://user-images.githubusercontent.com/13010173/182547561-a7eb74f7-43ad-4a3f-96dd-f7e8367da3df.jpg)
+
+
+
 
