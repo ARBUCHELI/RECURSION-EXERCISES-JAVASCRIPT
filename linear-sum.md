@@ -12,6 +12,4 @@ function sum(number) {
 
 console.log(sum(3));
 ```
-
-![image](https://user-images.githubusercontent.com/13010173/182546138-e7242f7f-7854-4e9e-9b95-41ec665d16f1.png)
-
+![1](https://user-images.githubusercontent.com/13010173/182546518-52b36c67-2fd8-4130-ae83-923527ccdc20.jpg)
