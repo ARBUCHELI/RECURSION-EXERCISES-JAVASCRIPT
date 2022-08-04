@@ -14,7 +14,7 @@ pow(2,2);
 ```
 ![1](https://user-images.githubusercontent.com/13010173/182785708-3d38199d-8891-44aa-bce0-54d770e94fe9.jpg)
 
-![2](https://user-images.githubusercontent.com/13010173/182785899-a8b140d6-a7bf-4a29-ac0d-11f082023bd8.jpg)
+![2](https://user-images.githubusercontent.com/13010173/182786568-cade0ac6-5377-4fc5-9941-3c7db9721433.jpg)
 
 ![3](https://user-images.githubusercontent.com/13010173/182786221-5fde66f5-9813-40ae-acf8-7b4a5a89256c.jpg)
 
